@@ -2,8 +2,7 @@
 title: 關於我們
 date: 2023-11-13 20:55:00
 tags:
-index_img: https://wallpapercave.com/dwp2x/wp4744229.jpg
-banner_img: https://wallpapercave.com/dwp2x/wp4744229.jpg
+top_img: https://wallpapercave.com/dwp2x/wp4744229.jpg
 ---
 # 簡介
 多元世界 是一個多元宇宙的世界，伺服器擁有不同種類的分流，我們讓玩家體驗了最棒的自訂義功能以及不同種類的遊玩體驗，有 PVP練習、生存、活動等等

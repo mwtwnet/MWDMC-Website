@@ -1,8 +1,8 @@
 ---
 title: 隱私政策
 date: 2023-11-15 08:58:54
-index_img: https://wallpapercave.com/wp/wp9008586.jpg
-banner_img: https://wallpapercave.com/wp/wp9008586.jpg
+top_img: https://wallpapercave.com/wp/wp9008586.jpg
+toc: true
 ---
 ![](https://cdn.discordapp.com/icons/1102552093912477696/eeca74bc742595ea3899ea95dc1a7ea5.png)
 親愛的使用者與玩家們您好：

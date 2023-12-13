@@ -3,6 +3,7 @@ title: 服務條款
 date: 2023-11-14 10:32:00
 index_img: https://wallpapercave.com/dwp2x/wp4872111.png
 banner_img: https://wallpapercave.com/dwp2x/wp4872111.png
+toc: true
 ---
 ![](https://cdn.discordapp.com/icons/1102552093912477696/eeca74bc742595ea3899ea95dc1a7ea5.png)
 多元世界團隊（以下簡稱「乙方」）及其關係團隊茲提供遊戲（包含電腦軟體、行動應用程式或網頁遊戲等）、網站（包含乙方架構網頁或Facebook、Instagram等社群網站）、資訊、服務等（以下概括簡稱為「乙方遊戲服務」）供使用者（以下簡稱「甲方」）接觸或使用。

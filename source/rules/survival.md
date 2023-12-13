@@ -1,7 +1,7 @@
 ---
 title: 多元生存 • 規範規則
 date: 2023-11-15 13:46:11
-cover: https://wallpapercave.com/dwp2x/wp9093209.jpg
+top_img: https://wallpapercave.com/dwp2x/wp9093209.jpg
 categories: 
   - 規則
 feature: false

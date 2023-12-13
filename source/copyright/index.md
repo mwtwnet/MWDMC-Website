@@ -1,8 +1,8 @@
 ---
 title: 版權聲明
 date: 2023-11-15 13:46:11
-index_img: https://wallpapercave.com/dwp2x/wp6632107.png
-banner_img: https://wallpapercave.com/dwp2x/wp6632107.png
+top_img: https://wallpapercave.com/dwp2x/wp6632107.png
+toc: true
 ---
 ![](https://cdn.discordapp.com/icons/1102552093912477696/eeca74bc742595ea3899ea95dc1a7ea5.png)
 ## 一、網站使用

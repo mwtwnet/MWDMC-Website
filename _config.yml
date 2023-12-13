@@ -4,7 +4,7 @@
 
 # Site
 title: 多元世界
-subtitle: ''
+subtitle: 多元世界\n伺服器擁有不同種類的分流，我們讓玩家體驗了最棒的自訂義功能以及不同種類的遊玩體驗，有 1.9+ PVP練習、生存、活動等等\nmwdmc.dev | 1.9.x ~ 最新
 description: ''
 keywords:
 author: 多元團隊
@@ -67,8 +67,8 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
-tag_map:
+category_map: 
+tag_map: 
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
