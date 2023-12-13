@@ -1,19 +1,18 @@
-- class_name: 友情鏈接
+- class_name: 熱烈的夥伴
   class_desc: 那些人，那些事
   link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
-
-- class_name: 網站
-  class_desc: 值得推薦的網站
+    - name: "[1.9+] 華人Tier List"
+      descr: "華人圈最標準的 TierList"
+      link: "https://discord.gg/yctefdXTvy"
+      avatar: "https://cdn.discordapp.com/icons/990378958501584916/5b1ee48771e60a43f58202e857035fcd.png?size=2048"
+    - name: "A告杯UHC"
+      descr: "很讚的華人 UHC 群組"
+      link: "https://discord.gg/N58wRDVW4c"
+      avatar: "https://cdn.discordapp.com/icons/1147983899796979853/a342870d536cca2a4b249f43363cea23.png?size=2048"
+- class_name: 其他的服務
+  class_desc: 我們做過的事情
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 視頻網站
-    - name: Twitter
-      link: https://twitter.com/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
-      descr: 社交分享平台
+    - name: "Backup Mode"
+      descr: "最棒的 Discord 備份機器人"
+      link: "https://discord.com/api/oauth2/authorize?client_id=999366110484910080&permissions=8&scope=applications.commands%20bot"
+      avatar: "https://cdn.discordapp.com/avatars/999366110484910080/5f228a7f6ef5cee7ab4f9b852d4ed2e6.png?size=2048"
