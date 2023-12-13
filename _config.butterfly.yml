@@ -3,9 +3,9 @@
 # --------------------------------------
 
 nav:
-  logo: # image
+  logo: https://cdn.discordapp.com/attachments/1122165645958713394/1184292040683556874/file.jpg?ex=658b70e9&is=6578fbe9&hm=e86ea07d952f177aa5dc69efd14b3ac3ca3d2dd42d8f34aa92793ffb00198e66&# image
   display_title: true
-  fixed: false # fixed navigation bar
+  fixed: true # fixed navigation bar
 
 # Menu 目錄
 menu:
