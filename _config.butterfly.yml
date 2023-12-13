@@ -764,7 +764,9 @@ subtitle:
   # subtitle 會先顯示 source , 再顯示 sub 的內容
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
-  sub: 多元世界\n伺服器擁有不同種類的分流，我們讓玩家體驗了最棒的自訂義功能以及不同種類的遊玩體驗，有 1.9+ PVP練習、生存、活動等等\nmwdmc.dev | 1.9.x ~ 最新
+  sub: "多元世界
+  伺服器擁有不同種類的分流，我們讓玩家體驗了最棒的自訂義功能以及不同種類的遊玩體驗，有 1.9+ PVP練習、生存、活動等等
+  mwdmc.dev | 1.9.x ~ 最新"
 
 # Loading Animation (加載動畫)
 preloader:
