@@ -15,8 +15,9 @@ menu:
     標籤: /tags/ || fas fa-tags
     分類: /categories/ || fas fa-folder-open
   分流資訊|| fas fa-circle-info:
+    多元大廳: /info/lobby/ || fas fa-star
     多元生存: /info/survival/ || fas fa-cube
-    多元戰鬥: /info/pvp/ || fas fa-swords
+    多元戰鬥: /info/pvp/ || fas fa-gamepad
   關於我們: /about/ || fas fa-heart
   其他||fa fa-book:
     隱私權政策: /privacy/ || fas fa-shield
@@ -759,9 +760,6 @@ subtitle:
   enable: true
   # Typewriter Effect (打字效果)
   effect: true
-  startDelay: 300 # time before typing starts in milliseconds
-  typeSpeed: 100 # type speed in milliseconds
-  backSpeed: 50 # backspacing speed in milliseconds
   # loop (循環打字)
   loop: true
   # Customize typed.js (配置typed.js)
@@ -927,6 +925,11 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+    - <link href="https://github.com/bean-frog/FontAwesome-Pro-6.4.0/raw/main/fa6.4.0.all.css">
+    - <link href="https://github.com/bean-frog/FontAwesome-Pro-6.4.0/raw/main/sharp-light.css">
+    - <link href="https://github.com/bean-frog/FontAwesome-Pro-6.4.0/raw/main/sharp-reg.css">
+    - <link href="https://github.com/bean-frog/FontAwesome-Pro-6.4.0/raw/main/sharp-solid.css">
+    - <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     # - <script src="xxxx"></script>
@@ -976,7 +979,7 @@ CDN:
     # fancybox:
     # fancybox_css:
     # fireworks:
-    fontawesome: https://cdn.jsdelivr.net/gh/eliyantosarage/font-awesome-pro@main/fontawesome-pro-6.5.1-web/css/all.min.css
+    fontawesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
     # gitalk:
     # gitalk_css:
     # giscus:
