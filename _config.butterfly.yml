@@ -208,10 +208,13 @@ noticeOutdate:
 # --------------------------------------
 footer:
   owner:
-    enable: true
-    since: 2020
+    enable: false
+    since: 2021
   custom_text:
-  copyright: true # Copyright of theme and framework
+    <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/beta.mwdmc.dev/embed" width="728" height="120"></iframe>
+    <br>
+    版權所有 © 2023 多元世界團隊
+  copyright: false # Copyright of theme and framework
 
 # aside (側邊欄)
 # --------------------------------------
@@ -753,6 +756,11 @@ subtitle:
   enable: true
   # Typewriter Effect (打字效果)
   effect: true
+  startDelay: 300 # time before typing starts in milliseconds
+  typeSpeed: 100 # type speed in milliseconds
+  backSpeed: 50 # backspacing speed in milliseconds
+  # loop (循環打字)
+  loop: true
   # Customize typed.js (配置typed.js)
   # https://github.com/mattboldt/typed.js/#customization
   typed_option:
@@ -764,9 +772,11 @@ subtitle:
   # subtitle 會先顯示 source , 再顯示 sub 的內容
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
-  sub: "多元世界
-  伺服器擁有不同種類的分流，我們讓玩家體驗了最棒的自訂義功能以及不同種類的遊玩體驗，有 1.9+ PVP練習、生存、活動等等
-  mwdmc.dev | 1.9.x ~ 最新"
+  sub: 
+    - "伺服器擁有不同種類的分流"
+    - "我們讓玩家體驗了最棒的自訂義功能"
+    - "以及不同種類的遊玩體驗，有 1.9+ PVP練習、生存、活動等等"
+    - "IP: beta.mwdmc.dev | 1.9.x ~ 最新"
 
 # Loading Animation (加載動畫)
 preloader:
