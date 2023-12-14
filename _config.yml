@@ -99,6 +99,26 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
+all_minifier: true
+js_minifier:
+  enable: true
+  mangle: true
+  silent: false
+  output:
+  compress:
+  exclude: 
+    - '*.min.js'
+css_minifier:
+  enable: true
+  silent: false
+  exclude: 
+    - '*.min.css'
+html_minifier:
+  enable: true
+  ignore_error: false
+  silent: false
+  exclude:
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

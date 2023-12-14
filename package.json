@@ -10,10 +10,11 @@
     "auto": "hexo g -d"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.0.0"
   },
   "dependencies": {
     "hexo": "^7.0.0",
+    "hexo-all-minifier": "^0.5.7",
     "hexo-bridge": "^2.0.2",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
