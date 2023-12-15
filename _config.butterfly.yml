@@ -215,7 +215,7 @@ footer:
     enable: false
     since: 2021
   custom_text:
-    <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/beta.mwdmc.dev/embed" width="728" height="120"></iframe>
+    <img style="max-width:100%;border:none;display:block;margin:auto;border-radius:20px;box-shadow:2px 2px black;" src="https://image.mc-list.xyz/banner/4-1571.png" width="560px">
     <br>
     版權所有 © 2023 多元世界團隊
   copyright: false # Copyright of theme and framework
